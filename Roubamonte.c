@@ -162,7 +162,7 @@ void imprime_mdj(jogador j[], int quantidade_jogadores) { // mostrar monte dos j
             }
         }
     }
-}
+}//Código muito organizado, mostra certinho as cartas do topo de cada jogador, avisa quando o monte tá vazio e ainda é fácil de entender.
 
 void imprime_add(area_de_descarte *add) { // mostrar cartas na área de descarte
     printf ("\nAREA DE DESCARTE:\n");
